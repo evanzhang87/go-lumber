@@ -21,8 +21,8 @@ import (
 	"errors"
 	"net"
 
-	"github.com/elastic/go-lumber/lj"
-	"github.com/elastic/go-lumber/server/internal"
+	"github.com/evanzhang87/go-lumber/lj"
+	"github.com/evanzhang87/go-lumber/server/internal"
 )
 
 // Server serves multiple lumberjack clients supporting protocol version 1.

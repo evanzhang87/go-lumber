@@ -23,7 +23,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/elastic/go-lumber/lj"
+	"github.com/evanzhang87/go-lumber/lj"
 )
 
 // Option type for configuring server run options.

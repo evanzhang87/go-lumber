@@ -33,8 +33,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/elastic/go-lumber/lj"
-	"github.com/elastic/go-lumber/server"
+	"github.com/evanzhang87/go-lumber/lj"
+	"github.com/evanzhang87/go-lumber/server"
 )
 
 type rateLimiter struct {

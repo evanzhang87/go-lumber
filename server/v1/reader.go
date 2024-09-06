@@ -27,9 +27,9 @@ import (
 
 	"github.com/klauspost/compress/zlib"
 
-	"github.com/elastic/go-lumber/lj"
-	"github.com/elastic/go-lumber/log"
-	protocol "github.com/elastic/go-lumber/protocol/v1"
+	"github.com/evanzhang87/go-lumber/lj"
+	"github.com/evanzhang87/go-lumber/log"
+	protocol "github.com/evanzhang87/go-lumber/protocol/v1"
 )
 
 type reader struct {
