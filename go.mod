@@ -1,4 +1,4 @@
-module github.com/elastic/go-lumber
+module github.com/evanzhang87/go-lumber
 
 go 1.17
 
